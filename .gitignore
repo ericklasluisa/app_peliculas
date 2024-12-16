@@ -43,4 +43,4 @@ app.*.map.json
 /android/app/release
 
 # Ignorar API_KEY
-lib/constants.dart
+lib/api/constants.dart
