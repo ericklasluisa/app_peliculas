@@ -30,7 +30,7 @@ Este proyecto es una aplicación Flutter que permite buscar películas y series 
 2. Navega al directorio del proyecto:
 
    ```bash
-   cd crud_api
+   cd app_peliculas
    ```
 
 3. Instala las dependencias:
