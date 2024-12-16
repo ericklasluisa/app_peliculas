@@ -1,6 +1,8 @@
 # CRUD API de Películas
 
-![Flutter](https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter" width="200"/>
+</p>
 
 Este proyecto es una aplicación Flutter que permite buscar películas y series populares, así como gestionar una lista de películas por ver. La aplicación utiliza la API de The Movie Database (TMDb) para obtener información sobre las películas.
 
